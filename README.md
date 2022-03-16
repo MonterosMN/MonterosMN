@@ -1,7 +1,7 @@
-### Bienvenidos a mi perfil 🦦
+### Welcome to "Otter" Profile 🦦 
 
-- 🐧 Usuario de GNU/Linux - Runit
-- 🔭 Actualmente trabajando en Ventus Linux (Web)
-- 🌱 Aprendiendo HTML - CSS - JS - Pascal - C
-- 📫 Contacto: monterosmn@gmail.com 
+- 🐧 GNU/Linux - Runit user
+- 🔭 Working on Ventus Linux (Web)
+- 🌱 Learning HTML - CSS - JS - C
+- 📫 Contact: monterosmn@gmail.com 
 - ⚡ Fun fact: No puedo pagar una licencia 
